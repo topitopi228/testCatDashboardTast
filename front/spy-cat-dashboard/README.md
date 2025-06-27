@@ -25,7 +25,7 @@ to create the DATABASE with name catapi, or you can change config in "env" File 
 Please, in the root of backend directory use "poetry install" command to install all needed dependencies
 After that just run main.py and you may go to http://localhost:8080/docs to see the API endpoints
 
-I could make this task much better but unfortunately i dont have time, 6 hours is to much , 
+I could make this task much better but unfortunately i dont have time, 
 
 I completed this task in two and a half hours, and most importantly,
 the main principles of writing backend logic have been adhered to.
